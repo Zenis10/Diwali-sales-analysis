@@ -28,17 +28,15 @@ Methodology
 Data Collection: Surveys were distributed to married women in the specified age group and regions, focusing on their purchasing preferences.
 Statistical Analysis: The collected data was analyzed to determine trends, preferences, and purchasing likelihood.
 Conclusion
-This analysis highlights the significant purchasing behavior of married women aged 26-35 from UP, Maharashtra, and Karnataka, particularly in the Food, Clothing, and Electronics categories. Understanding these insights can help businesses in these industries refine their marketing strategies for the Diwali season and target their efforts effectively.
+This analysis highlights the significant purchasing behavior of married women aged 26-35 in UP, Maharashtra, and Karnataka, particularly in the Food, Clothing, and Electronics categories. Understanding these insights can help businesses in these industries refine their marketing strategies for the Diwali season and effectively target their efforts.
 
 How to Use This Repository
-To explore the analysis in detail, refer to the analysis folder for scripts and notebooks.
-The data folder contains all the data used for the analysis; ensure to review the licensing before use.
+To thoroughly explore the analysis, refer to the analysis folder for scripts and notebooks.
+The data folder contains all the data used for the analysis; ensure that the licensing is reviewed before use.
 For insights and visualization, check the results folder for charts and graphs that summarize key findings.
 Contributions
 Contributions are welcome! If you have insights, data, or ideas that could enhance this analysis, please feel free to open a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
 For any inquiries or feedback, please contact zenisbharadwaj@gmail.com.
